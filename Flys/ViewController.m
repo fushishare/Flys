@@ -20,5 +20,10 @@
     NSLog(@"test");
 }
 
+- (void)mySubView
+{
+    
+}
+
 
 @end
