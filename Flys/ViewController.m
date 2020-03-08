@@ -29,7 +29,9 @@
 
 - (void)deve
 {
-    NSLog(@"");
+    NSLog(@"1111");
+    NSLog(@"2222");
+    NSLog(@"3333");
 }
 
 @end
