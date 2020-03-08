@@ -27,5 +27,9 @@
     [self.view addSubview:view];
 }
 
+- (void)deve
+{
+    
+}
 
 @end
