@@ -22,7 +22,8 @@
 
 - (void)mySubView
 {
-    
+    UIView *view = [[UIView alloc] init];
+    [self.view addSubview:view];
 }
 
 
